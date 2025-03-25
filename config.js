@@ -1,6 +1,6 @@
 const BASE_URL = "https://api1-pp.klokapp.ai/v1";
 const REFERRAL_CODE = {
-  referral_code: "GVJRESB4",
+  referral_code: "N2F8Z5FF",
 };
 const DEFAULT_HEADERS = {
   "content-type": "application/json",
